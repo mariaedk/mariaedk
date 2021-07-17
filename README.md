@@ -7,8 +7,6 @@
   - HTML & CSS and Java. 
 - 💞️ I’m looking to collaborate on ...
   - Any project that could teach me and help me to increase my skills.
-- 📫 How to reach me ...
-  - Can reach me by github.
 
 <!---
 mariaedk/mariaedk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
