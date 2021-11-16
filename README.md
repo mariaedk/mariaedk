@@ -4,7 +4,7 @@
   - learning new programming languages, 
   - playing games during my free time, 
   - accidentally waking up my cat, 
-  - editing some cute pictures 
+  - editing some cute pictures,
   - and ... sleeping, ofc :yawning_face:	
 - :electron: I’m currently learning ...
   - HTML5, CSS3 and Java
