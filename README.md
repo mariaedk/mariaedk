@@ -1,7 +1,11 @@
 # About me!
 - :sweat_smile:	My name is Maria Eduarda!
 - :dizzy: I’m interested in... 
-  - learning new programming languages, playing games during my free time, accidentally waking up my cat, editing some cute pictures and sleeping, ofc :yawning_face:	
+  - learning new programming languages, 
+  - playing games during my free time, 
+  - accidentally waking up my cat, 
+  - editing some cute pictures 
+  - and ... sleeping, ofc :yawning_face:	
 - :electron: I’m currently learning ...
   - HTML5, CSS3 and Java
 - I am currently on a Computer Science course.
