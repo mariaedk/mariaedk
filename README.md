@@ -4,6 +4,7 @@
   - learning new programming languages, playing games during my free time, accidentally waking up my cat, editing some cute pictures and sleeping, ofc :yawning_face:	
 - :electron: I’m currently learning ...
   - HTML5, CSS3 and Java
+- I am currently on a Computer Science course.
  
 ### Where can you find me?
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
