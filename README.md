@@ -36,7 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedk&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![snake gif](https://github.com/mariaedk/mariaedk/blob/output/github-contribution-grid-snake.gif)
 <!---
 mariaedk/mariaedk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
