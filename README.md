@@ -12,8 +12,7 @@
   - and ... sleeping, ofc :yawning_face:	                                  
 - :electron: I’m currently learning ...
   - HTML5, CSS3 and Java
-- +DEVS2BLU student
-- I am a Computer Science student
+- I am a Computer Science student and +DEVS2BLU student as well.
 
  
 ### Where can you find me?
