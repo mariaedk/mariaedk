@@ -3,7 +3,6 @@
   <img align="right" width="30%" alt="me" src="https://cdn.discordapp.com/attachments/888213290935795742/917214869999190016/download20211200214330.png"></img>
 </div>
 
-- :sweat_smile:	My name is Maria Eduarda!
 - :dizzy: I’m interested in... 
   - learning new programming languages, 
   - playing games during my free time, 
