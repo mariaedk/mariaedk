@@ -13,7 +13,7 @@
 - :electron: I’m currently learning ...
   - HTML5, CSS3 and Java
 - +DEVS2BLU student
-- I am currently on a Computer Science course
+- I am a Computer Science student
 
  
 ### Where can you find me?
