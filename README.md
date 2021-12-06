@@ -10,8 +10,6 @@
   - accidentally waking up my cat, 
   - editing some cute pictures,
   - and ... sleeping, ofc :yawning_face:	                                  
-- :electron: I’m currently learning ...
-  - HTML5, CSS3 and Java
 - I am a Computer Science student and +DEVS2BLU student as well.
 
  
