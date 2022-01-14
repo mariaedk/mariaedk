@@ -1,7 +1,7 @@
 # About me!
 
 - :dizzy: I’m interested in... 
-  - playing games(epic perfect world, paladins mostly) during my free time, 
+  - playing games (epic perfect world, paladins mostly) during my free time, 
   - accidentally waking up my cat, 
   - editing some cute pictures,
   - and ... sleeping, ofc :yawning_face:	                                  
