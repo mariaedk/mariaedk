@@ -1,7 +1,4 @@
 # About me!
-<div>
-  <img align="right" width="30%" alt="me" src="https://cdn.discordapp.com/attachments/888213290935795742/917242485909102632/download20211200233401.png"></img>
-</div>
 
 - :dizzy: I’m interested in... 
   - playing games during my free time, 
