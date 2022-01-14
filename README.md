@@ -4,7 +4,6 @@
 </div>
 
 - :dizzy: I’m interested in... 
-  - learning new programming languages, 
   - playing games during my free time, 
   - accidentally waking up my cat, 
   - editing some cute pictures,
