@@ -8,7 +8,7 @@
   - accidentally waking up my cat, 
   - editing some cute pictures,
   - and ... sleeping, ofc :yawning_face:	                                  
-- I am a Computer Science student and +DEVS2BLU student as well.
+- Student of Computer Science and +DEVS2BLU.
 - Constantly thirsty for new knowledge.
 
  
