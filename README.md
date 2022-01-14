@@ -3,8 +3,8 @@
 - :dizzy: I’m interested in... 
   - playing games (epic perfect world, paladins mostly) during my free time, 
   - accidentally waking up my cat, 
-  - editing some cute friends pictures,
-  - having a daily dose of metal, rock n roll, and some indie for a change (if you enjoy some rock like me, check out my buddies on instagram: <a href="https://www.instagram.com/bandajollyrogers/?utm_medium=copy_link">@bandajollyrogers</a>),
+  - editing some cute pictures for these awesome guys -> <a href="https://www.instagram.com/bandajollyrogers/?utm_medium=copy_link">@bandajollyrogers</a>,
+  - having a daily dose of metal, rock n roll, and some indie for a change,
   - studying about finances,
   - and ... sleeping, ofc :yawning_face:	                                  
 - Student of Computer Science and +DEVS2BLU.
