@@ -30,3 +30,5 @@
 
 ##
 
+![snake gif](https://github.com/mariaedk/mariaedk/blob/output/github-contribution-grid-snake.gif)
+
