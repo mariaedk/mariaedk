@@ -8,8 +8,6 @@
   - studying about finances,
   - and ... sleeping, ofc :yawning_face:	                                  
 - Student of Computer Science and +DEVS2BLU.
-- Constantly thirsty for new knowledge.
-
  
 ### Where can you find me?
 <a href="https://www.linkedin.com/in/maria-eduarda-krutzsch/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
