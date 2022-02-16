@@ -1,5 +1,9 @@
 # About me! <img src="https://img.icons8.com/ios/50/000000/cat--v1.png"/>
 
+<div>
+  <img align="right" height="180" width="180"  src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"
+</div>
+  
 - :dizzy: I’m interested in... 
   - playing games (epic perfect world, paladins mostly) during my free time, 🎮
   - accidentally waking up my cat, 🐱
@@ -8,6 +12,7 @@
   - studying about finances, 💰
   - and ... sleeping, ofc :yawning_face:	                                  
 - Student of Computer Science and +DEVS2BLU.
+
  
 ### Where can you find me?
 <a href="https://www.linkedin.com/in/maria-eduarda-krutzsch/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
