@@ -1,7 +1,7 @@
 # <img src="https://img.icons8.com/ios/50/000000/cat--v1.png"/> About me! 
 
 <div>
-  <img align="right" height="180" width="180"  src="https://user-images.githubusercontent.com/62608046/154493389-3f024bc4-4222-4291-a66f-4f1b1bac2ab1.jpg"
+  <img align="right" height="180" width="180"  src="https://user-images.githubusercontent.com/62608046/154494398-d34ead7f-61f4-4197-8948-e230b6e90c39.png"
 </div>
   
 - :dizzy: I’m interested in... 
