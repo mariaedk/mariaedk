@@ -7,7 +7,7 @@
 - :dizzy: I’m interested in... 
   - playing games (epic perfect world, paladins mostly) during my free time, 🎮
   - accidentally waking up my cat, 🐱
-  - editing and photographing some cute pictures for these awesome guys -> <a href="https://www.instagram.com/bandajollyrogers/?utm_medium=copy_link">@bandajollyrogers</a>, 📸
+  - photographing and editing some cute pictures for these awesome guys -> <a href="https://www.instagram.com/bandajollyrogers/?utm_medium=copy_link">@bandajollyrogers</a>, 📸
   - having a daily dose of metal, rock n roll, and some indie for a change, 🎸
   - studying about finances, 💰
   - and ... sleeping, ofc :yawning_face:	                                  
