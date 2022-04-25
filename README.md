@@ -9,7 +9,7 @@
   - accidentally waking up my cat, 🐱
   - photographing and editing some cute pictures for these awesome guys -> <a href="https://www.instagram.com/bandajollyrogers/?utm_medium=copy_link">@bandajollyrogers</a>, 📸
   - having a daily dose of metal, rock n roll, and some indie for a change, 🎸
-  - studying about finances, 💰
+  - trying to learn how to play the guitar,
   - and ... sleeping, ofc :yawning_face:	                                  
 - Student of Computer Science and +DEVS2BLU.
 
