@@ -11,7 +11,7 @@
   - having a daily dose of metal, rock n roll, and some indie for a change, 🎸
   - trying to learn how to play the guitar,
   - and ... sleeping, ofc :yawning_face:	                                  
-- Student of Computer Science and +DEVS2BLU.
+- Student of Computer Science.
 
  
 ### Where can you find me?
