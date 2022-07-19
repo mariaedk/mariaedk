@@ -8,7 +8,6 @@
   - accidentally waking up my cat, 🐱
   - photographing and editing some cute pictures for these awesome guys -> <a href="https://www.instagram.com/bandajollyrogers/?utm_medium=copy_link">@bandajollyrogers</a>, 📸
   - having a daily dose of metal, rock n roll, and some indie for a change, 🎸
-  - trying to learn how to play the guitar,
   - and ... sleeping, ofc :yawning_face:	                                  
 - Student of Computer Science.
 
@@ -19,7 +18,6 @@
 
 
 
-## Currently studying:
 <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img eight="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/> <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 
 <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />   <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
