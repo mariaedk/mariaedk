@@ -18,10 +18,6 @@
 
 <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />   <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
-
-
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img> </img> <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"></img>
-
 ##
 
 <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=mariaedk&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/> <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedk&layout=compact&langs_count=7&theme=aura_dark"/>
