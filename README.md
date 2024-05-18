@@ -15,7 +15,8 @@
           
 
 <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
+<img height="40" width="40" width="48%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
 ##
 
 <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=mariaedk&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/> <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedk&layout=compact&langs_count=7&theme=aura_dark"/>
