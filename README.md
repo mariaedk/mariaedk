@@ -1,9 +1,5 @@
 # About me! 
-  
-- :dizzy: I’m interested in... 
-  - photographing and editing some pictures, 📸
-  - having a daily dose of metal, rock n roll, and some indie for a change, 🎸
-  - and ... sleeping, ofc :yawning_face:	                                  
+                             
 - Student of Computer Science.
 
  
