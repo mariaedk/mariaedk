@@ -1,7 +1,8 @@
 # About me! 
                              
 - Student of Computer Science.
-- Java backend Developer. 
+- Java backend Developer.
+- IoT enthusiast.
 
  
 ### Where can you find me?
