@@ -1,6 +1,7 @@
 # About me! 
                              
 - Student of Computer Science.
+- Java backend Developer. 
 
  
 ### Where can you find me?
