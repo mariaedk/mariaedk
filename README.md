@@ -3,7 +3,7 @@
 - Student of Computer Science.
 - Java backend Developer.
 - IoT enthusiast.
-- Focusing on my university's final project.
+- Focusing on my course's final project.
 
  
 ### Where can you find me?
